@@ -15,6 +15,7 @@ This is a [Vial](https://get.vial.today/) keyboard configuration for a [64-key S
 - The `[` and `]` keys are (unfortunately) no longer on the bottom row.<br>
       *Brackets are assigned to some letter keys on layer 1 (as per the Ergodox EZ).*
 - Keys to change screen brightness added to layer 2.
+- `h`, `j`, `k`, `l` on layer 1 function like the cursor movement keys in the vi text editor.
 - Combos were defined.<br>
   Pressing `b` and `c` together will insert "`because `", `t` and `e` together will insert "`the`", etc.
 
