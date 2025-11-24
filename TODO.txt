@@ -1,3 +1,5 @@
 Include a diagram of my keymap in README.md.
 
 Include a photo of my keyboard?
+
+Assign some layer 1 keys to invoke macros, e.g. "b" => "because ". (And delete combos incl. "bc" for "because " which I didn't find very reliable.)
