@@ -27,7 +27,7 @@ This is a [Vial](https://get.vial.today/) keyboard configuration for a [64-key S
 - [A similar 64-key Sofle keyboard sold by YMDK](https://ymdkey.com/products/ymdk-sofle-wireless-split-keyboard-2-4ghz-64-keys-ergonomic-hotswappable-60-layout-3d-pla-vial-all-key-programmable-mini-independent-gaming-keyboard-kit?variant=42422408085565).
 
 ### Why a 64-key Sofle?
-It's a split ortholinear keyboard with multiple thumb keys.
+It's a split ortholinear keyboard (allowing for improved placement of the hands, etc. compared to when using a "typewritter-style" keyboard) and it has multiple thumb keys (rather than one space bar under both thumbs).
 
 #### Advantages over ErgoDox EZ
 - Wireless version at a good price.<br>
